@@ -1,0 +1,10 @@
+.idea/
+.__pycache__
+.pytest_cache
+.coverage
+src/__pycache__/
+tests/.pytest_cache/
+tests/__pycache__/
+venv/
+src/test_file_collect_framework.txt
+dist
